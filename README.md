@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ssreis32(Samuel Reis)
+- 👋 Hi, I’m @ssreis32(Samuel Reis) estudante de graduação em Sistemas de Informação.
 - 👀 I’m interested in  aprender Python, HTML/CSS Git/GitHub  etc...
 - 🌱 I’m currently learning  Python, HTML/CSS E Django
 - 💞️ Estou  buscando aprimorar meus conhecimentos para poder colaborar com a comunidade GitHub e tambem busco me inserir no concorrido mercado de trabalho de devs.
